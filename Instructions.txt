@@ -1,0 +1,4 @@
+To modify the code you need Openssh,OpenCV,Zlib,Pdcurses and link them to the main
+To just execute the main the dlls are provided you need them with the hydra.exe
+To actually run the .exe 
+Hope it helps :]
